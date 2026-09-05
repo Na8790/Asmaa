@@ -1,0 +1,6 @@
+{
+  "name": "تِجربة",
+  "description": "منصة ذكية للتجارب المحلية والسفر الذكي وتخطيط الرحلات بالذكاء الاصطناعي - مشروع تخرج المهندسة رغد",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
