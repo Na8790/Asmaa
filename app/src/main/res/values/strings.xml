@@ -1,6 +1,6 @@
 <resources>
     <string name="app_name">تِجربة</string>
     <string name="app_name_en">Tajribah</string>
-    <string name="developer_name">المهندسة رغد</string>
-    <string name="developer_name_en">Engineer Raghad</string>
+    <string name="developer_name">المهندسة رغد حمود &amp; المهندسة أسماء تاج الدين</string>
+    <string name="developer_name_en">Eng. Raghad Hammoud &amp; Eng. Asmaa Taj Al-Din</string>
 </resources>

@@ -5,7 +5,7 @@ import androidx.room.PrimaryKey
 
 /**
  * Platform Core Models for Tajribah (تِجربة)
- * Designed by Engineer Raghad
+ * Designed and Developed by Eng. Raghad Hammoud & Eng. Asmaa Taj Al-Din
  */
 
 enum class ExperienceCategory(val titleAr: String, val titleEn: String, val iconName: String) {

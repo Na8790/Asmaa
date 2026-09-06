@@ -128,7 +128,7 @@ fun SplashScreen(
                     horizontalAlignment = Alignment.CenterHorizontally
                 ) {
                     Text(
-                        text = "Developed by Engineer Raghad",
+                        text = "Developed by Eng. Raghad Hammoud & Eng. Asmaa Taj Al-Din",
                         fontSize = 13.sp,
                         fontWeight = FontWeight.Bold,
                         color = WarmGoldSecondary,
@@ -136,7 +136,7 @@ fun SplashScreen(
                     )
                     Spacer(modifier = Modifier.height(4.dp))
                     Text(
-                        text = "تم تصميم وتطوير التطبيق بواسطة المهندسة رغد",
+                        text = "تم تصميم وتطوير التطبيق بواسطة المهندسة رغد حمود والمهندسة أسماء تاج الدين",
                         fontSize = 12.sp,
                         color = Color.White.copy(alpha = 0.9f),
                         textAlign = TextAlign.Center

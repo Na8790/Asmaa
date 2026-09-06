@@ -87,7 +87,7 @@ fun DeveloperFooter(modifier: Modifier = Modifier) {
         )
         Spacer(modifier = Modifier.height(2.dp))
         Text(
-            text = "تصميم وتطوير: المهندسة رغد",
+            text = "تصميم وتطوير: المهندسة رغد حمود والمهندسة أسماء تاج الدين",
             style = MaterialTheme.typography.labelMedium.copy(fontWeight = FontWeight.Bold),
             color = WarmGoldSecondary,
             textAlign = TextAlign.Center

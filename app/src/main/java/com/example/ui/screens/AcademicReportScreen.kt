@@ -83,7 +83,7 @@ fun AcademicReportScreen(
                         )
                         Spacer(modifier = Modifier.height(6.dp))
                         Text(
-                            text = "إعداد وتطوير: المهندسة رغد\nقسم هندسة البرمجيات ونظم المعلومات الحاسوبية",
+                            text = "إعداد وتطوير: المهندسة رغد حمود والمهندسة أسماء تاج الدين\nقسم هندسة البرمجيات ونظم المعلومات الحاسوبية",
                             fontSize = 12.sp,
                             color = Color.White.copy(alpha = 0.85f),
                             lineHeight = 18.sp

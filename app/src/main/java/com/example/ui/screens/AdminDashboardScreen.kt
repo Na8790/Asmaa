@@ -71,8 +71,8 @@ fun AdminDashboardScreen(
                             Icon(Icons.Default.VerifiedUser, contentDescription = null, tint = WarmGoldSecondary)
                             Spacer(modifier = Modifier.width(8.dp))
                             Text(
-                                text = "System Designed & Developed by Engineer Raghad",
-                                fontSize = 14.sp,
+                                text = "System Designed & Developed by Eng. Raghad Hammoud & Eng. Asmaa Taj Al-Din",
+                                fontSize = 13.sp,
                                 fontWeight = FontWeight.Bold,
                                 color = WarmGoldSecondary
                             )

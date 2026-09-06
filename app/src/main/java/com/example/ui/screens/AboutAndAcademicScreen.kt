@@ -89,7 +89,7 @@ fun AboutScreen(
                         )
                         Spacer(modifier = Modifier.height(12.dp))
                         Text(
-                            text = "تم تصميم وتطوير التطبيق بواسطة المهندسة رغد",
+                            text = "تم تصميم وتطوير التطبيق بواسطة المهندسة رغد حمود والمهندسة أسماء تاج الدين",
                             fontSize = 13.sp,
                             fontWeight = FontWeight.Bold,
                             color = WarmGoldSecondary,
@@ -120,13 +120,13 @@ fun AboutScreen(
                             Spacer(modifier = Modifier.width(12.dp))
                             Column {
                                 Text(
-                                    text = "اسم المطور: المهندسة رغد",
+                                    text = "فريق التطوير: المهندسة رغد حمود & المهندسة أسماء تاج الدين",
                                     fontWeight = FontWeight.Bold,
-                                    fontSize = 15.sp,
+                                    fontSize = 14.sp,
                                     color = DeepBluePrimary
                                 )
                                 Text(
-                                    text = "المسمى: Software Engineer & Application Developer",
+                                    text = "المسمى: Software Engineers & Application Developers",
                                     fontSize = 12.sp,
                                     fontWeight = FontWeight.SemiBold,
                                     color = WarmGoldSecondary
